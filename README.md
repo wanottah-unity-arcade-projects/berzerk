@@ -1,2 +1,2 @@
 # berzerk
-Stern [1980]
+Berzerk Stern [1980]
